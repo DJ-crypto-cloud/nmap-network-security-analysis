@@ -1,0 +1,11 @@
+# Nmap 7.98 scan initiated Tue Mar 17 23:16:25 2026 as: nmap -sS -sV -oN device_scan.txt 192.168.X.X
+Nmap scan report for 192.168.X.X
+Host is up (0.013s latency).
+
+All 1000 scanned ports on 192.168.X.X are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+MAC Address: XX:XX:XX:XX:XX:XX (Vendor Anonymized)
+
+Service detection performed.
+# Nmap done at Tue Mar 17 23:16:28 2026 -- 1 IP address (1 host up) scanned in 2.65 seconds

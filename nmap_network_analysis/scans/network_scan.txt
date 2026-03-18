@@ -1,0 +1,26 @@
+# Nmap 7.98 scan initiated as: nmap -sn -oN scans/network_scan.txt 192.168.X.X/27
+
+Nmap scan report for 192.168.X.X
+Host is up (0.012s latency).
+MAC Address: XX:XX:XX:XX:XX:XX (Huawei Technologies)
+
+Nmap scan report for 192.168.X.X
+Host is up (0.091s latency).
+MAC Address: XX:XX:XX:XX:XX:XX (Unknown)
+
+Nmap scan report for 192.168.X.X
+Host is up (0.0050s latency).
+MAC Address: XX:XX:XX:XX:XX:XX (Wistron Infocomm)
+
+Nmap scan report for 192.168.X.X
+Host is up (0.064s latency).
+MAC Address: XX:XX:XX:XX:XX:XX (Unknown)
+
+Nmap scan report for 192.168.X.X
+Host is up (0.051s latency).
+MAC Address: XX:XX:XX:XX:XX:XX (Unknown)
+
+Nmap scan report for 192.168.X.X
+Host is up.
+
+# Nmap done -- 32 IP addresses (6 hosts up)

@@ -1,0 +1,11 @@
+# Nmap 7.98 scan initiated as: nmap -sS -sV -oN scans/gateway_scan.txt 192.168.X.X 
+
+Nmap scan report for 192.168.X.X
+Host is up (0.010s latency).
+All 1000 scanned ports on 192.168.X.X are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: XX:XX:XX:XX:XX:XX (Unknown)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+
+# Nmap done -- 1 IP address (1 host up) scanned in 2.68 seconds
